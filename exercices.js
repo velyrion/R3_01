@@ -11,7 +11,7 @@ console.log("degrès celsius: " + degCelsius);
 console.log("degrès fahenheit: " + convertToFahrenheit(degCelsius));
 */
 
-
+/*
 // Exercice 2
 let rectWidth = 10, rectHeight = 8;
 
@@ -20,3 +20,5 @@ function calculAireRect(width, height) {
 }
 
 console.log("Aire : " + calculAireRect(rectWidth, rectHeight));
+*/
+
